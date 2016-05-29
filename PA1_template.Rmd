@@ -1,7 +1,6 @@
 ---
 title: "Coursera_Assignment 1"
 author: "Sahil"
-output: md_document
 ---
 
 ## COURSERA
